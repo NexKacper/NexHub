@@ -126,7 +126,7 @@ end
 function a7() -- Auto Re - Execute
     while _G.a7 == true do
     wait(900)
-	loadstring(game:HttpGet"https://raw.githubusercontent.com/NexKacper/NexLibary/main/NexLibary.lua")()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/NexKacper/NexHub/main/Anime%20Racing%20Clicker")()
 	wait(5)
 	end
 end
